@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://maximeberrou.github.io/</loc>
+    </url>
+    <url>
+        <loc>https://maximeberrou.github.io/contacts/</loc>
+        <lastmod>2020-07-09</lastmod>
+    </url>
+    <url>
+        <loc>https://maximeberrou.github.io/contacts_fr/</loc>
+        <lastmod>2020-07-09</lastmod>
+    </url>
+    <url>
+        <loc>https://maximeberrou.github.io/research/</loc>
+    </url>
+    <url>
+        <loc>https://maximeberrou.github.io/teaching/</loc>
+    </url>
+</urlset>
